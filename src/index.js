@@ -1,3 +1,7 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+
 const BUTCHER_PRODUCTS = [
   'Tenderloin',
   'Short ribs',
